@@ -1,0 +1,17 @@
+[package]
+name = "mr60fda2-proto"
+version = "0.1.0"
+edition = "2021"
+rust-version = "1.85"
+license = "MIT OR Apache-2.0"
+description = "Seeed MR60FDA2 60 GHz mmWave fall-detection radar sensor protocol parser"
+repository = "https://github.com/jcmendez/mr60fda2-proto"
+readme = "README.md"
+keywords = ["radar", "mr60fda2", "mmwave", "uart", "no-std"]
+categories = ["embedded", "hardware-support", "parser-implementations", "no-std"]
+
+[dependencies]
+
+[features]
+default = ["std"]
+std = []
