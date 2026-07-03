@@ -80,6 +80,12 @@ ESP32-C6) over UART: `get_parameters()` sent, sensor replied with a real
 `ParseEvent::Parameters` frame; continuous `Fall`/`PeopleExist` frames
 received and parsed with zero unrecognized frame types.
 
+## Contributing
+
+Contributions are welcome — see [CONTRIBUTING.md](CONTRIBUTING.md) for
+development setup, the checks CI runs, and what evidence is needed for
+changes to the wire-format parsing.
+
 ## License
 
 Licensed under either of
