@@ -1,6 +1,8 @@
 # Contributing
 
-Thanks for considering a contribution to `mr60fda2-proto`.
+Thanks for considering a contribution to `mr60fda2-proto`. By
+participating, you're expected to uphold our
+[Code of Conduct](CODE_OF_CONDUCT.md).
 
 ## Before you start
 
